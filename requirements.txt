@@ -1,0 +1,4 @@
+osmnx
+matplotlib
+pandas
+pytest
