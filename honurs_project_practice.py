@@ -15,7 +15,7 @@ longitude = []
 lsoa_code = []
 lsoa_name = []
 
-# Read csv file and store data in lists
+# Read csv file and store data in lists test for update
 
 with open("saved_postcodes.csv", "r") as csvfile:
     reader = csv.reader(csvfile)
